@@ -2,7 +2,7 @@
 
 For Testing checkout code on local and run the below commands to start application withthe default speficied settings on the properties file
 
-1. mvn clena install
+1. mvn clean install
 
 2. mvn spring-boot:run
 
